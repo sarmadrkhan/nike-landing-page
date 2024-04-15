@@ -2,8 +2,8 @@ import bigShoe1 from './big-shoe1.png'
 import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
 
-import customer1 from './customer1.jpeg'
-import customer2 from './customer2.svg'
+import person1 from './person-1.png'
+import person2 from './person-2.png'
 
 import footerLogo from './footer-logo.svg'
 import headerLogo from './header-logo.svg'
@@ -26,8 +26,8 @@ export {
     bigShoe2,
     bigShoe3,
 
-    customer1,
-    customer2,
+    person1,
+    person2,
 
     footerLogo,
     headerLogo,
